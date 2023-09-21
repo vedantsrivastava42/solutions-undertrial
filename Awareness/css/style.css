@@ -1,0 +1,47 @@
+.wrapper{
+    background-color: #e7e4e4;
+    font-size: large;
+}
+ #head{
+    text-align: center;
+    margin-top: 60px;
+}
+.wrapper .art-body,
+.user-info
+ {
+    margin-right: 30px;
+   margin-left: 30px;
+    padding-bottom: 15px;
+}
+
+.wrapper .user-info {
+    color: #666;
+    font-weight: bold;
+}
+
+.wrapper p {
+    line-height: 22px;
+}
+
+.wrapper .col-box {
+    overflow: hidden;
+    padding-bottom: 10px;
+    border-bottom: 1px solid #dddddd;
+    margin-bottom: 10px;
+}
+
+.wrapper.social-box-bottom {
+    border: none;
+}
+
+.wrapper .social-button {
+    width: 35px;
+    height: 35px;
+    display: inline-block;
+    font-size: 20px;
+    line-height: 35px;
+    text-align: center;
+    -webkit-border-radius: 3px;
+    -moz-border-radius: 3px;
+    border-radius: 3px;
+}
